@@ -17,15 +17,11 @@
  1. **直接下载**: 点击仓库中的 `8651_BRLink_V_1.1.0.34.zip` 文件，然后点击右上角的 "Download" 按钮进行下载。
  2. **克隆仓库**: 如果你需要整个仓库的内容，可以使用以下命令克隆仓库：
 
-    ```bash
-       git clone https://github.com/your-repo-url.git
-          ```
+ 克隆完成后，你可以在本地仓库中找到 `8651_BRLink_V_1.1.0.34.zip` 文件。
 
-             克隆完成后，你可以在本地仓库中找到 `8651_BRLink_V_1.1.0.34.zip` 文件。
+ ## 使用说明
 
-             ## 使用说明
-
-             下载完成后，你可以解压 `8651_BRLink_V_1.1.0.34.zip` 文件，并根据你的需求使用其中的资源。
+下载完成后，你可以解压 `8651_BRLink_V_1.1.0.34.zip` 文件，并根据你的需求使用其中的资源。
 
              ## 贡献
 
@@ -38,9 +34,7 @@
              ---
 
              如果你有任何问题或需要进一步的帮助，请随时联系我们。
+ ## 下载链接
+[8651_BRLink_V_1.1.0.34资源文件下载](https://pan.quark.cn/s/2c32d0aca38e) 
 
-             ## 下载链接
-             [8651_BRLink_V_1.1.0.34资源文件下载](https://pan.quark.cn/s/2c32d0aca38e) 
-
-             (备用: [备用下载](https://pan.baidu.com/s/1DpaOG3jjOrUWtAaAjwEadg?pwd=1234
-    ))
+(备用: [备用下载](https://pan.baidu.com/s/1DpaOG3jjOrUWtAaAjwEadg?pwd=1234))
